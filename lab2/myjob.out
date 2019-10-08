@@ -1,0 +1,65 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    699697.qb3
+Username:  droz
+Group:     latechusers
+Date:      26-Sep-2019 16:20
+Node:      qb122 (32779)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb122
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb122 16:20:31 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 26-Sep-2019 16:20:31
+------------------------------------------------------
+Hello, droz from #11 of 20!
+Hello, droz from #12 of 20!
+Hello, droz from #13 of 20!
+Hello, droz from #15 of 20!
+Hello, droz from #16 of 20!
+Hello, droz from #17 of 20!
+Hello, droz from #18 of 20!
+Hello, droz from #1 of 20!
+Hello, droz from #3 of 20!
+Hello, droz from #4 of 20!
+Hello, droz from #5 of 20!
+Hello, droz from #6 of 20!
+Hello, droz from #7 of 20!
+Hello, droz from #9 of 20!
+Hello, droz from #10 of 20!
+Hello, droz from #14 of 20!
+Hello, droz from #19 of 20!
+Hello, droz from #2 of 20!
+Hello, droz from #8 of 20!
+Hello, droz from #0 of 20!
+------------------------------------------------------
+Running PBS epilogue script    - 26-Sep-2019 16:20:32
+------------------------------------------------------
+Checking node qb122 (MS)
+Checking node qb122 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 26-Sep-2019 16:20:34
+------------------------------------------------------
+Exit Status:     0
+Job ID:          699697.qb3
+Username:        droz
+Group:           latechusers
+Job Name:        myjob0
+Session Id:      32778
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=00:00:06,mem=0kb,vmem=0kb,walltime=00:00:03
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb122
+Process id:      33412
+------------------------------------------------------

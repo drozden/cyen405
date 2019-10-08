@@ -1,0 +1,78 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.556344) 64-bit (glnxa64)
+                               March 27, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+[Warning: The system time zone setting, 'US/Central', does not specify a single
+time zone unambiguously. It will be treated as 'America/Chicago'. See the <a
+href="matlab:doc('datetime.TimeZone')">datetime.TimeZone property</a> for
+details about specifying time zones.] 
+[> In verifyTimeZone (line 23)
+  In datetime (line 515)
+  In parallel.internal.cluster.DefaultProperties.getNewJobPropStruct (line 16)
+  In parallel.internal.cluster.CJSSupport/buildJob (line 158)
+  In parallel.cluster.CJSCluster/buildCommunicatingJob (line 465)
+  In parallel.Cluster/createCommunicatingJob (line 92)
+  In parallel.internal.pool.InteractiveClient>iCreateCommunicatingJob (line 715)
+  In parallel.internal.pool.InteractiveClient/start (line 325)
+  In parallel.Pool>iStartClient (line 593)
+  In parallel.Pool.hBuildPool (line 472)
+  In parallel.internal.pool.doParpool (line 18)
+  In parpool (line 89)
+  In lab1b (line 4)
+  In lab1c (line 2)] 
+connected to 1 workers.
+Parallel pool using the 'local' profile is shutting down.
+    7.5360
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 2 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.7623
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 3 workers.
+Parallel pool using the 'local' profile is shutting down.
+    3.9939
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.1734
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 5 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.5755
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 6 workers.
+Parallel pool using the 'local' profile is shutting down.
+    3.9615
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 7 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.2021
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 8 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.5460
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 9 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.0818
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 10 workers.
+Parallel pool using the 'local' profile is shutting down.
+    4.1256
+
